@@ -1,0 +1,52 @@
+   body{
+    text-align: center;
+   }
+    #questiondiv{
+     
+      background-color: white;
+      box-shadow: 10px 10px 30px grey;
+      padding-top:10px;
+      padding-bottom:10px;
+      font-size:25px;
+      height:90%;
+      margin-left:1%;
+    }
+    #question{
+      float:left;
+      margin-bottom:10px;
+      display: inline;
+      
+    }
+    .imgdiv{
+      background-color: white;
+      box-shadow: 10px 10px 30px grey;
+      text-align: center;
+      padding-top:10px;
+      padding-bottom:10px;
+      height:90%;
+    }
+    li{
+      list-style-type: none;
+      margin-right:10px;
+    
+    }
+    #result{
+      font-size: 25px;
+    }
+    button{
+      margin:10px;
+      width: 20%;
+    }
+    .menu{
+      text-align:initial;
+      background-color: aquamarine;
+    }
+    .maindiv{
+        background-color: orange;
+        height: 450px;
+        padding-top:10px;
+    }
+    #heading{
+        font-family:Impact;
+    }
+  
